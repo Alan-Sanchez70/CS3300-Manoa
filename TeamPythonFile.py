@@ -1,7 +1,7 @@
 print("Team: Manoa Chocolate")
 <<<<<<< HEAD
 
-Echo "Alan Sanchez"
+
 =======
 print("Team: Junmin testing")
 print("Kacy Horning")
